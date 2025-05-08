@@ -35,5 +35,5 @@ The system maintains data integrity through proper use of:
 2. **Open MySQL Workbench** (or any SQL tool of your choice).
 3. **Create a new database**:
    ```sql
-   CREATE DATABASE clinic_db;
-   USE clinic_db;
+   CREATE DATABASE clinicdb;
+   USE clinicdb;
