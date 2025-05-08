@@ -37,5 +37,4 @@ The system maintains data integrity through proper use of:
    ```sql
    CREATE DATABASE clinicdb;
    USE clinicdb;
-ERD
-<img width="367" alt="image" src="https://github.com/user-attachments/assets/3cd1d00c-6142-42d0-af09-55586295b90d" />
+
